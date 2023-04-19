@@ -1,4 +1,4 @@
-Have the directories set:
+For the Bash pipeline have the directories set:
 
 ```
 dnaseq/
