@@ -1,5 +1,5 @@
-# Advanced-Bioinformatics-Data-Analysis-Assignment
-For the Bash pipeline have the directories set:
+# Example-NGS-Pipeline
+For the pipeline have the directories set:
 
 ```
 dnaseq/
